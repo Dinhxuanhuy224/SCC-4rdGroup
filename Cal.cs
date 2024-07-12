@@ -16,6 +16,7 @@ class Calculator
 
     public double Divide(double a, double b)
     {
+        return a/b;
     }
 }
 }
