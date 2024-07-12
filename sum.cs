@@ -4,7 +4,7 @@ public class Sum
 {
     public Sum()
     {
-        Console.WriteLine("Nhap hai so nguyen de tinh tong:");
+        Console.WriteLine("Nhap hai so nguyen de tinh tong cua hai so do:");
         int x, y;
         x = Convert.ToInt32(Console.ReadLine());
         y = Convert.ToInt32(Console.ReadLine());
