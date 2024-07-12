@@ -5,6 +5,7 @@ class Calculator
     public double Add(double a, double b)
     {
         return a + b;
+        // nhanh nay de tao conflict
     }
 
     public double Subtract(double a, double b)
